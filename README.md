@@ -1,16 +1,16 @@
 # Hi there! 👋 I'm Richard
 
-👨‍💻 Full-Stack Developer | 🧠 Coding Enthusiast | 🚀 Founder of [SuperWeb4u](superweb4u.com)
+👨‍💻 Full-Stack Developer | 🧠 Coding Enthusiast | 🚀 Founder of [SuperWeb4u](https://superweb4u.com)
 
 ---
 
 ### About Me
-I'm a 12-year-old full-stack developer with a big passion for coding and building cool projects! I’ve gained solid experience in both front-end and back-end development, working with HTML, CSS, JavaScript, Python, and XML to bring ideas to life. I’ve even started my own company, **[SuperWeb4u](SuperWeb4u.com)**, where I create responsive, high-quality websites for clients. I love solving problems and making web applications that look and feel great to use. Feel free to contact me via email CodeRichard7@gmail.com.
+I'm a 12-year-old full-stack developer with a big passion for coding and building projects! I’ve gained solid experience in both front-end and back-end development, working with HTML, CSS, JavaScript, Python, and XML to bring ideas to life. I’ve even started my own company, **[SuperWeb4u](https://superweb4u.com)**, where I create responsive, high-quality websites for clients. I love solving problems and making web applications that look and feel great to use. Reach out at **CodeRichard7@gmail.com**.
 
 ### What I Do
-- **Front-End Development**: Crafting responsive and user-friendly designs using HTML, CSS, and JavaScript.
-- **Back-End Development**: Building reliable and efficient back-end systems in Python, XML and JavaScript.
-- **Project-Based Learning**: Each project I take on helps me improve my skills and try out new ideas.
+- **Front-End Development**: Crafting responsive, user-friendly designs with HTML, CSS, and JavaScript.
+- **Back-End Development**: Building reliable and efficient systems with Python, XML, and JavaScript.
+- **Project-Based Learning**: Each project is a chance to improve my skills and explore new ideas.
 
 ### My Skills
 - **Languages**:
@@ -25,15 +25,15 @@ I'm a 12-year-old full-stack developer with a big passion for coding and buildin
 
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
   ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat-square&logo=xampp&logoColor=white)
-  ![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-%230078D6.svg?style=flat-square&logo=microsoft&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 
 ### My Projects
 - **[Project 1](link)** – A responsive website with custom animations and interactive elements.
 - **[Project 2](link)** – A mobile-friendly web app with sign-in/sign-up forms and user account features.
-- **[Project 3](link)** – A fun, minimalist Tetris game built with custom controls and unique gameplay twists.
+- **[Project 3](link)** – A fun, minimalist Tetris game with custom controls and unique gameplay twists.
 
 ### Goals
-I’m currently working on adding advanced animations to my projects and exploring new areas of development like AI and machine learning. My goal is to continue growing as a developer and to keep challenging myself with exciting projects.
+I’m currently adding advanced animations to my projects and exploring new areas of development like AI and machine learning. My goal is to keep growing as a developer and tackle new challenges with each project.
 
 ### Let’s Connect!
-Feel free to reach out or check out my work—there’s always something new I’m working on! Also, if you ever need a website you know who to get.
+Feel free to reach out or check out my work—there’s always something new I’m working on. And if you ever need a website, you know who to contact!
