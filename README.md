@@ -36,4 +36,4 @@ I'm a 12-year-old full-stack developer with a big passion for coding and buildin
 I’m currently working on adding advanced animations to my projects and exploring new areas of development like AI and machine learning. My goal is to continue growing as a developer and to keep challenging myself with exciting projects.
 
 ### Let’s Connect!
-Feel free to reach out or check out my work—there’s always something new I’m working on!
+Feel free to reach out or check out my work—there’s always something new I’m working on! Also, if you ever need a website you know who to get.
