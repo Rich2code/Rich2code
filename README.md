@@ -9,7 +9,7 @@ I'm a 12-year-old full-stack developer with a big passion for coding and buildin
 
 ### What I Do
 - **Front-End Development**: Crafting responsive and user-friendly designs using HTML, CSS, and JavaScript.
-- **Back-End Development**: Building reliable and efficient back-end systems in Python and XML.
+- **Back-End Development**: Building reliable and efficient back-end systems in Python, XML and JavaScript.
 - **Project-Based Learning**: Each project I take on helps me improve my skills and try out new ideas.
 
 ### My Skills
