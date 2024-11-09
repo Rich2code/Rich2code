@@ -34,10 +34,6 @@ I'm a 12-year-old full-stack developer with a big passion for coding and buildin
 
 ### Goals
 I’m currently working on adding advanced animations to my projects and exploring new areas of development like AI and machine learning. My goal is to continue growing as a developer and to keep challenging myself with exciting projects.
-
-### Fun Facts
-- 💡 I started coding at a young age and am always eager to learn something new.
-- 🏀 I’m a huge basketball fan and am even working on a basketball rules website!
   
 ### Let’s Connect!
 Feel free to reach out or check out my work—there’s always something new I’m working on!
