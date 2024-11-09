@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Richard
 
-👨‍💻 Full-Stack Developer | 🧠 Coding Enthusiast | 🚀 Founder of [SuperWeb4u](your-link-here)
+👨‍💻 Full-Stack Developer | 🧠 Coding Enthusiast | 🚀 Founder of [SuperWeb4u](superweb4u.com)
 
 ---
 
