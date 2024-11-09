@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-I'm a 12-year-old full-stack developer with a big passion for coding and building cool projects! I’ve gained solid experience in both front-end and back-end development, working with HTML, CSS, JavaScript, Python, and XML to bring ideas to life. I’ve even started my own company, **SuperWeb4u**, where I create responsive, high-quality websites for clients. I love solving problems and making web applications that look and feel great to use.
+I'm a 12-year-old full-stack developer with a big passion for coding and building cool projects! I’ve gained solid experience in both front-end and back-end development, working with HTML, CSS, JavaScript, Python, and XML to bring ideas to life. I’ve even started my own company, **SuperWeb4u.com**, where I create responsive, high-quality websites for clients. I love solving problems and making web applications that look and feel great to use.
 
 ### What I Do
 - **Front-End Development**: Crafting responsive and user-friendly designs using HTML, CSS, and JavaScript.
